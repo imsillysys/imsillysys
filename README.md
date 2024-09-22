@@ -33,13 +33,8 @@
 
 ###
 
-<div align="left">
+<div align="center">
+  <img height="200" src="https://i.kym-cdn.com/photos/images/newsfeed/001/584/966/246.jpg"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/imsillysys/imsillysys/output/snake.svg" alt="Snake animation" />
 
 ###
